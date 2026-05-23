@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit",
+  "description": "A premium fitness tracker tracking activities, plans, and active workouts with athletic charts and dark performance UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
